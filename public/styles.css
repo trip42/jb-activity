@@ -1,0 +1,13 @@
+body {
+  font-family: verdana, arial, sans-serif;
+}
+
+textarea {
+  font-family: monospace;
+  position: absolute;
+  width: 90%;
+  top: 60px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
