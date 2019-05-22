@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "id": null,
+  "key": "REST-1",
+  "arguments": {
+    "execute": {
+      "inArguments": [
+        { "contactKey": "{{Contact.Key}}" }
+      ],
+      "url": "https://requestbin.fullcontact.com/15hp3vr1"
+    }
+  },
+  "configurationArguments": {
+    "publish": {
+      "url": "https://requestbin.fullcontact.com/15hp3vr1"
+    }
+  },
+  "metaData": {
+    "icon": "https://sample-activity.herokuapp.com/icon.png",
+    "category": "message",
+    "iconSmall": null,
+    "original_icon": "icon.png",
+    "isConfigured": true
+  },
+  "editable": true,
+  "outcomes": [
+    {
+      "next": "WAITBYDURATION-1"
+    }
+  ],
+  "errors": null
+}
