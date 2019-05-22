@@ -4,5 +4,10 @@
     "icon": "icon.png",
     "category": "message"
   },
-  "type": "REST"
+  "type": "REST",
+  "userInterfaces": {
+    "configInspector": {
+      "size": "medium"
+    }
+  }
 }
