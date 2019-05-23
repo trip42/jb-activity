@@ -1,0 +1,15 @@
+Stack: S4
+MID: 1484633
+Username: brb_s4_jb_demo
+
+Setup:
+- Delete package from heroku
+- Delete package from Marketing Cloud
+- Login to S4
+
+Package Name: Sample Journey Builder Activity
+
+> heroku create sample-activity
+> git push heroku master
+
+Request Bin: https://requestbin.fullcontact.com/15hp3vr1?inspect
