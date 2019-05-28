@@ -1,3 +1,4 @@
+// Authentication through JWT
 {
   "name": "",
   "id": null,
@@ -30,5 +31,5 @@
       "next": "WAITBYDURATION-1"
     }
   ],
-  "errors": null
+  "errors": []
 }
