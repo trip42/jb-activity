@@ -6,6 +6,7 @@ Setup:
 - Delete package from heroku
 - Delete package from Marketing Cloud
 - Delete Journey from Marketing Cloud
+- Delete old automations
 - Clear and add records to source DE
 - Login to S4
 - Open Atom w/ config.json, icon, index, and Activity
