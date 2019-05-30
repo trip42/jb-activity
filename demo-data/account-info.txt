@@ -17,4 +17,4 @@ Package Name: Sample Journey Builder Activity
 > heroku create sample-activity
 > git push heroku master
 
-Request Bin: https://requestbin.fullcontact.com/15hp3vr1?inspect
+Request Bin: http://requestbin.fullcontact.com/r92a9gr9?inspect
