@@ -1,4 +1,3 @@
-// Authentication through JWT
 {
   "name": "",
   "id": null,
@@ -10,12 +9,12 @@
         { "FirstName": "{{Contact.Attribute.JourneyEntrySource.FirstName}}"},
         { "LastName": "{{Contact.Attribute.JourneyEntrySource.LastName}}"}
       ],
-      "url": "https://requestbin.fullcontact.com/r92a9gr9/execute"
+      "url": "https://eoxau1kd47s4aac.m.pipedream.net"
     }
   },
   "configurationArguments": {
     "publish": {
-      "url": "https://requestbin.fullcontact.com/r92a9gr9/publish"
+      "url": "https://eoxau1kd47s4aac.m.pipedream.net"
     }
   },
   "metaData": {
